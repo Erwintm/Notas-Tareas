@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="home_title">Notas y tareas</string>
+    <string name="add_note">Agregar nota</string>
+    <string name="edit_note">Editar nota</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+</resources>
